@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kd2018
+- 👋 Hi, I’m (@kd2018) ANIL KUMAR VISHWAKARMA
 - 👀 I’m interested in python project
 - 🌱 I’m currently learning python machin learning,java,asp.net 
 - 💞️ I’m looking to collaborate on all type of project 
