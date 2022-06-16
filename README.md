@@ -1,5 +1,5 @@
 - 👋 Hi, I’m (@kd2018) ANIL KUMAR VISHWAKARMA
-- 👀 I’m interested in python project
+- 👀 I'm Work as Full Stack Software Developer Role
 - 🌱 I’m currently learning python,machin learning,java,React
 - 💞️ I’m looking to collaborate on all type of project 
 - 📫 How to reach me 
